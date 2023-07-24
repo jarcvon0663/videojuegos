@@ -1,13 +1,13 @@
 [
     {
         "id": "abrigo-01",
-        "titulo": "Abrigo 01",
+        "titulo": "NFS U2",
         "imagen": "./img/abrigos/01.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 7000
     },
     {
         "id": "abrigo-02",
